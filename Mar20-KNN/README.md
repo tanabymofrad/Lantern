@@ -26,7 +26,7 @@ You may want to first save each tab in the provided dataset as a csv file prior 
 - The optimum number of K which gives you the best classification accuracy.
 - Do you need to use all features in classification? or a subset? ( you need to run tests to verify that)
 
-Once you have selected the clasifier, you can apply the classifier to the data provided in evaluation tab in the Loan_lending.xlsx file and send me your prediction results. 
+Once you have selected the classifier, you can apply the classifier to the data provided in evaluation tab in the Loan_lending.xlsx file and send me your prediction results. 
 
 
 
