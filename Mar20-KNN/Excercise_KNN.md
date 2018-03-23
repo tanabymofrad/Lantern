@@ -1,23 +1,22 @@
 
-EXCERCISE ONE: KNN
+# EXCERCISE ONE: KNN
 
 
-Hello Everyone, 
-
-As promised, I have prepared an excercise using KNN which you can all attend and send me your results. 
-
-Data File: Load_lending.xlsx which is uploaded in data folder.
+Data File: **Load_lending.xlsx** which is uploaded in data folder.
 
 
-Data Description:
+## Data Description:
 
 Data contains features gathered to make a decision to whether approve / reject a loan application. 
 To simplify the problem The features V1~V28 are principal components obtained by PCA. 
 
 The class column has two values:
 
+```
  0 -> for all applications which are declined
- 1 -> If an application is approved. u
+ 1 -> If an application is approved. 
+ 
+ ```
 
 You need to build a KNN model which can classify the provided dataset the best. 
 
