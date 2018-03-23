@@ -22,6 +22,7 @@ You need to build a KNN model which can classify the provided dataset the best.
 
 You may want to first save each tab in the provided dataset as a csv file prior to reading it in Pandas.
 
+Here are a few tips about what you can try to improve your model:
 
 - The optimum number of K which gives you the best classification accuracy.
 - Do you need to use all features in classification? or a subset? ( you need to run tests to verify that)
