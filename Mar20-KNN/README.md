@@ -14,7 +14,7 @@ The class column has two values:
 
 ```
  0 -> for all applications which are declined
- 1 -> If an application is approved. 
+ 1 -> if an application is approved. 
  
  ```
 
