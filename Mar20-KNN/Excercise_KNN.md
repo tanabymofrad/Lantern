@@ -32,9 +32,6 @@ Once you have selected the clasifier, you can apply the classifier to the data p
 
 
 
--
-
-
 
 
 
